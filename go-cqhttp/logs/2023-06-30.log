@@ -1,0 +1,46 @@
+[2023-06-30 02:50:31] [WARNING]: 虚拟设备信息不存在, 将自动生成随机设备. 
+[2023-06-30 02:50:32] [WARNING]: 警告: 未配置签名服务器, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-06-30 02:51:09] [WARNING]: 警告: 未配置签名服务器, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-06-30 02:51:20] [WARNING]: 登录需要滑条验证码, 请验证后重试. 
+[2023-06-30 02:51:20] [WARNING]: 请选择提交滑块ticket方式: 
+[2023-06-30 02:51:20] [WARNING]: 1. 自动提交 
+[2023-06-30 02:51:20] [WARNING]: 2. 手动抓取提交 
+[2023-06-30 02:51:20] [WARNING]: 请输入(1 - 2)： 
+[2023-06-30 02:51:23] [WARNING]: 请前往该地址验证 -> https://captcha.go-cqhttp.org/captcha?id=KZOTJkcX&style=simple&aid=16&uin=3057275774&sid=5351649348379595433&cap_cd=jk18fdt3BkiVjzhvLgff41A2_a0acRGGlGwt7hVaAyJnLKssTFP2FA**&clientype=1&apptype=2  
+[2023-06-30 02:51:40] [WARNING]: 登录失败: 登录失败，建议升级最新版本后重试，或通过问题反馈与我们联系。 Code: 45 
+[2023-06-30 02:51:40] [WARNING]: 你的账号被限制登录, 请配置 SignServer 后重试 
+[2023-06-30 02:55:18] [WARNING]: 登录需要滑条验证码, 请验证后重试. 
+[2023-06-30 02:55:18] [WARNING]: 请选择提交滑块ticket方式: 
+[2023-06-30 02:55:18] [WARNING]: 1. 自动提交 
+[2023-06-30 02:55:18] [WARNING]: 2. 手动抓取提交 
+[2023-06-30 02:55:18] [WARNING]: 请输入(1 - 2)： 
+[2023-06-30 02:55:26] [WARNING]: 请前往该地址验证 -> https://captcha.go-cqhttp.org/captcha?id=d4PMT7nd&style=simple&aid=16&uin=3057275774&sid=5267618991838188439&cap_cd=PzesrmVS8C6DZZ6qi5VTr5xyA8UHIF_pp7MS3qyJCTXRE11wysSyOQ**&clientype=1&apptype=2  
+[2023-06-30 02:55:45] [WARNING]: 账号已开启设备锁，请选择验证方式: 
+[2023-06-30 02:55:45] [WARNING]: 1. 向手机 151*******1 发送短信验证码 
+[2023-06-30 02:55:45] [WARNING]: 2. 使用手机QQ扫码验证. 
+[2023-06-30 02:55:45] [WARNING]: 请输入(1 - 2)： 
+[2023-06-30 02:55:51] [WARNING]: 请输入短信验证码： (Enter 提交) 
+[2023-06-30 02:59:05] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-06-30 02:59:50] [WARNING]: 警告: 配置文件内的QQ号 (3472510988) 与缓存内的QQ号 (3057275774) 不相同 
+[2023-06-30 02:59:50] [WARNING]: 1. 使用会话缓存继续. 
+[2023-06-30 02:59:50] [WARNING]: 2. 删除会话缓存并重启. 
+[2023-06-30 02:59:50] [WARNING]: 请选择: 
+[2023-06-30 03:00:14] [WARNING]: 登录需要滑条验证码, 请验证后重试. 
+[2023-06-30 03:00:14] [WARNING]: 请选择提交滑块ticket方式: 
+[2023-06-30 03:00:14] [WARNING]: 1. 自动提交 
+[2023-06-30 03:00:14] [WARNING]: 2. 手动抓取提交 
+[2023-06-30 03:00:14] [WARNING]: 请输入(1 - 2)： 
+[2023-06-30 03:00:18] [WARNING]: 请前往该地址验证 -> https://captcha.go-cqhttp.org/captcha?id=5Krlc6iT&style=simple&aid=16&uin=3472510988&sid=1139321307668534464&cap_cd=bFKKx--R9xICfUTm9sdgjikIkDErIElKRu4Ey5J0V_UcZJrJOaelRA**&clientype=1&apptype=2  
+[2023-06-30 03:00:31] [WARNING]: 登录失败: 当前网络不稳定，登录失败。推荐使用常用设备或通过手机号登录。 Code: 237 
+[2023-06-30 03:00:31] [WARNING]: 登录过于频繁, 请在手机QQ登录并根据提示完成认证后等一段时间重试 
+[2023-06-30 03:02:12] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-06-30 03:15:23] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-06-30 03:15:44] [WARNING]: 获取sso sign时出现错误: Post "http://127.0.0.1:8090/sign": dial tcp 127.0.0.1:8090: connectex: No connection could be made because the target machine actively refused it. server: http://127.0.0.1:8090/ 
+[2023-06-30 03:15:44] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-06-30 04:11:32] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable network. 
+[2023-06-30 04:11:32] [WARNING]: 恢复会话失败: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable network. , 尝试使用正常流程登录. 
+[2023-06-30 04:11:33] [WARNING]: 检查协议更新失败: Get "https://ghproxy.com/https://raw.githubusercontent.com/RomiChan/protocol-versions/master/android_pad.json": dial tcp: lookup ghproxy.com: no such host 
+[2023-06-30 04:11:33] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable network. 
+[2023-06-30 04:11:33] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable network. 
+[2023-06-30 04:11:53] [WARNING]: 登录失败: 账号被冻结 Code: 40 
+[2023-06-30 04:14:16] [WARNING]: Protocol -> device lock is disable. http api may fail. 

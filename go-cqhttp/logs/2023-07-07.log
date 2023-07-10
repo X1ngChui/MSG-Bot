@@ -1,0 +1,57 @@
+[2023-07-07 00:01:06] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-07 00:08:08] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-07 00:09:52] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-07 00:11:24] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-07 00:15:09] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-07 00:18:12] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-07 00:19:22] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-07 00:20:42] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-07 00:20:48] [WARNING]: 检查协议更新失败: Get "https://ghproxy.com/https://raw.githubusercontent.com/RomiChan/protocol-versions/master/android_pad.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2023-07-07 00:23:18] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-07 00:37:08] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-07 00:40:18] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-07 00:41:29] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-07 00:41:57] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-07 00:45:03] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-07 00:45:57] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-07 00:46:34] [WARNING]: 警告: 未配置签名服务器, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-07-07 00:46:39] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-07 00:56:28] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-07 00:56:49] [WARNING]: 警告: 未配置签名服务器, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-07-07 00:57:06] [WARNING]: 警告: 未配置签名服务器, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-07-07 00:59:13] [WARNING]: 警告: 未配置签名服务器, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-07-07 01:01:02] [WARNING]: 警告: 未配置签名服务器, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-07-07 01:02:32] [WARNING]: 警告: 未配置签名服务器, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-07-07 01:02:42] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-07 01:03:34] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-07 01:03:40] [WARNING]: 警告: 未配置签名服务器, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-07-07 01:03:46] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-07 01:04:00] [WARNING]: 转换消息 [CQ:] 到MiraiGo Element时出现错误: unsupported message type: . 
+[2023-07-07 01:04:05] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-07 01:04:20] [WARNING]: 转换消息 [CQ:] 到MiraiGo Element时出现错误: unsupported message type: . 
+[2023-07-07 01:04:25] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-07 01:05:23] [WARNING]: 警告: 未配置签名服务器, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-07-07 01:05:29] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-07 01:05:48] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2023-07-07 01:06:03] [WARNING]: 警告: 未配置签名服务器, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-07-07 01:06:09] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-07 01:06:47] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-07 01:15:22] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-07 01:19:27] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-07 01:19:40] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-07 01:20:01] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-07 01:23:19] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-07 01:23:37] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-07 01:25:23] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-07 01:29:19] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-07 01:31:09] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-07 01:31:28] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-07 01:38:48] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-07 01:39:58] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-07 01:41:53] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-07 01:43:10] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-07 01:44:57] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-07 01:46:50] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-07 01:47:22] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-07 01:47:36] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-07 01:50:11] [WARNING]: Protocol -> device lock is disable. http api may fail. 

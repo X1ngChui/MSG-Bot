@@ -1,0 +1,80 @@
+[2023-07-08 00:12:16] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-08 00:15:35] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-08 00:18:30] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 1 次重试 
+[2023-07-08 00:18:38] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-08 00:20:10] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-08 00:21:00] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-08 00:23:14] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-08 00:23:49] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-08 00:29:42] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-07-08 00:31:25] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 1 次重试 
+[2023-07-08 00:31:28] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 2 次重试 
+[2023-07-08 00:31:31] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 3 次重试 
+[2023-07-08 00:31:34] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 4 次重试 
+[2023-07-08 00:31:37] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 5 次重试 
+[2023-07-08 00:31:41] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 6 次重试 
+[2023-07-08 00:31:44] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 7 次重试 
+[2023-07-08 00:31:47] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 8 次重试 
+[2023-07-08 00:31:50] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 9 次重试 
+[2023-07-08 00:31:53] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 10 次重试 
+[2023-07-08 00:31:56] [WARNING]: 上报 Event 数据 {"post_type":"meta_event","meta_event_type":"heartbeat","time":1688747483,"self_id":3057275774,"status":{"app_enabled":true,"app_good":true,"app_initialized":true,"good":true,"online":true,"plugins_good":null,"stat":{"packet_received":30,"packet_sent":20,"packet_lost":0,"message_received":3,"message_sent":0,"disconnect_times":0,"lost_times":0,"last_message_time":1688747409}},"interval":5000}
+ 到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 停止上报：已达重试上限 
+[2023-07-08 00:31:58] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 1 次重试 
+[2023-07-08 00:32:01] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 2 次重试 
+[2023-07-08 00:32:04] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 3 次重试 
+[2023-07-08 00:32:07] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 4 次重试 
+[2023-07-08 00:32:10] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 5 次重试 
+[2023-07-08 00:32:11] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-08 00:33:23] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-08 00:33:55] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-08 00:34:45] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 1 次重试 
+[2023-07-08 00:34:48] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 2 次重试 
+[2023-07-08 00:34:51] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 3 次重试 
+[2023-07-08 00:34:54] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 4 次重试 
+[2023-07-08 00:34:58] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 5 次重试 
+[2023-07-08 00:35:01] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 6 次重试 
+[2023-07-08 00:35:02] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-08 00:35:59] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-08 00:37:11] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-08 00:41:12] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-08 00:43:59] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-08 00:48:09] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-08 00:49:13] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-08 00:50:32] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-08 00:51:40] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-08 00:53:30] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-08 00:54:54] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-08 01:04:21] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-08 01:14:40] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 1 次重试 
+[2023-07-08 01:14:43] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 2 次重试 
+[2023-07-08 01:14:46] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 3 次重试 
+[2023-07-08 01:14:49] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 4 次重试 
+[2023-07-08 01:14:52] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 5 次重试 
+[2023-07-08 01:14:55] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 6 次重试 
+[2023-07-08 01:14:59] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 7 次重试 
+[2023-07-08 01:15:02] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 8 次重试 
+[2023-07-08 01:15:05] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 9 次重试 
+[2023-07-08 01:15:08] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 10 次重试 
+[2023-07-08 01:15:11] [WARNING]: 上报 Event 数据 {"post_type":"meta_event","meta_event_type":"heartbeat","time":1688750078,"self_id":3057275774,"status":{"app_enabled":true,"app_good":true,"app_initialized":true,"good":true,"online":true,"plugins_good":null,"stat":{"packet_received":201,"packet_sent":126,"packet_lost":0,"message_received":62,"message_sent":6,"disconnect_times":0,"lost_times":0,"last_message_time":1688749480}},"interval":5000}
+ 到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 停止上报：已达重试上限 
+[2023-07-08 01:15:13] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 1 次重试 
+[2023-07-08 01:15:16] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 2 次重试 
+[2023-07-08 01:15:19] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 3 次重试 
+[2023-07-08 01:15:19] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-08 01:17:04] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-08 01:18:36] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-08 01:19:19] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-08 01:19:42] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-08 01:20:42] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-08 01:24:25] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-08 01:26:29] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-08 01:30:57] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-08 01:32:19] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-08 01:34:50] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-08 01:36:38] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-08 01:37:16] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-08 01:38:10] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-08 01:40:37] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-08 01:42:53] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-08 01:43:23] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
+[2023-07-08 01:48:11] [FATAL]: open cache image db failed: The process cannot access the file because it is being used by another process. 
